@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying statistics at Institut Teknologi Sepuluh Nopember (ITS)
 - 🌱 I’m highly interested in fields related to data and machine learning
 - 😄 I enjoy writing and occasionally express my thoughts through [Medium](https://medium.com/@andikadibya76)
-- 📫 Reach me through [Linkedin](www.linkedin.com/in/andikadibya) or Email : andikadibya92@gmail.com
+- 📫 Reach me through [Linkedin](https://linkedin.com/in/andikadibya) or Email : andikadibya92@gmail.com
      
   
 
